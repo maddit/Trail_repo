@@ -11,4 +11,3 @@ echo "#!/bin/bash
 ### END INIT INFO
 /opt/lampp/lampp start" >> /etc/init.d/lampp
 
-update-rc.d lampp defaults
